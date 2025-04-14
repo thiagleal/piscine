@@ -13,7 +13,7 @@ O objetivo do programa é resolver automaticamente o quebra-cabeça com base nas
 
 ## 🏆 Nota do Projeto
 
-![Nota do Projeto](https://github.com/user-attachments/assets/14a444f4-6454-49ae-9713-fd571eb3c417)
+![Nota do Projeto]([https://github.com/user-attachments/assets/14a444f4-6454-49ae-9713-fd571eb3c417](https://github.com/user-attachments/assets/74c36a64-6289-4908-abfe-92ce07cb3f01))
 
 ## 📂 Estrutura do Projeto
 
