@@ -43,11 +43,11 @@ O objetivo do programa é resolver automaticamente o quebra-cabeça com base nas
 ### 📄 Exemplo de Entrada e Saída
 
 Entrada:
-Pistas fornecidas como argumentos:
+Pistas fornecidas como argumentos:  
 `"4 3 2 1" "1 2 2 2" "2 2 2 2" "1 2 2 2"`
 
 Saída:
-Solução exibida no terminal:
+Solução exibida no terminal:  
 `1 2 3 4`  
 `2 3 4 1`  
 `3 4 1 2`  
