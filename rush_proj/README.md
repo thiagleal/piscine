@@ -33,11 +33,11 @@ O objetivo do programa é resolver automaticamente o quebra-cabeça com base nas
 
 1. **Compilar o programa**:
 
-   Use o comando para copilar `cc -Wall -Werror -Wextra-o rush01 main.c input_validation.c solver.c grid_utils.c constraints.c`
+   Use o comando para copilar: `cc -Wall -Werror -Wextra-o rush01 main.c input_validation.c solver.c grid_utils.c constraints.c`
 
 2. **Executar o programa**:
 
-   Use o comando para executar `c./rush01 "4 3 2 1" "1 2 2 2" "2 2 2 2" "1 2 2 2"`
+   Use o comando para executar: `c./rush01 "4 3 2 1" "1 2 2 2" "2 2 2 2" "1 2 2 2"`  
    Obs: Substitua com valores validos pelas pistas do quebra-cabeça.
 
 ### 📄 Exemplo de Entrada e Saída
