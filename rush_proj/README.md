@@ -48,10 +48,10 @@ Pistas fornecidas como argumentos:
 
 Saída:
 Solução exibida no terminal:
-`1 2 3 4`
-`2 3 4 1`
-`3 4 1 2`
-`4 1 2 3`
+`1 2 3 4`  
+`2 3 4 1`  
+`3 4 1 2`  
+`4 1 2 3`  
 
 ## 🖥️ Ambiente de Desenvolvimento
 
