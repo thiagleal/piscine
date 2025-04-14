@@ -11,6 +11,10 @@ O jogo "SkyScrapers" é um quebra-cabeça lógico onde o jogador deve preencher 
 
 O objetivo do programa é resolver automaticamente o quebra-cabeça com base nas pistas fornecidas.
 
+## 🏆 Nota do Projeto
+
+![Nota do Projeto](https://github.com/user-attachments/assets/14a444f4-6454-49ae-9713-fd571eb3c417)
+
 ## 📂 Estrutura do Projeto
 
 - **`main.c`**: Arquivo principal que inicializa o programa, processa os argumentos e chama as funções de resolução.
