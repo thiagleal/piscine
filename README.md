@@ -17,7 +17,7 @@ Os códigos foram desenvolvidos e testados em ambiente Linux, utilizando process
 
 ## ✅ Clonar o repositório
 
-- Clone o repositório para sua máquina local: git clone https://github.com/thiagleal/piscine
+- Clone o repositório para sua máquina local: `git clone https://github.com/thiagleal/piscine`
 
 ## 📝 Contribuição
 
